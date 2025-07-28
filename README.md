@@ -1,3 +1,7 @@
+## 📉 Retail Design Is in Decline
+
+See: [`Retail_Designs_Declining_Practices.md`](./docs/Retail_Designs_Declining_Practices.md)
+
 # xAr Framework™ & Ecosystem™
 
 ### A Spiritually-Rooted, Research-Backed Design Methodology for Human-Centered Retail Environments  
