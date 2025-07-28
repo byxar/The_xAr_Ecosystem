@@ -1,6 +1,6 @@
 ## 📉 Retail Design Is in Decline
 
-See: [`Retail_Designs_Declining_Practices.md`](/Report2025_Retail_Designs_Declining_Practices)
+See: [`Retail_Designs_Declining_Practices.md`](/Report2025_Retail_Designs_Declining_Practices.md)
 
 # xAr Framework™ & Ecosystem™
 
