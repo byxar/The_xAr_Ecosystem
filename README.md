@@ -57,7 +57,7 @@ Explore the ecosystem:
 
 > This repo powers the GitHub Pages site for the xAr Framework™:
 
- https://byxar.github.io/xAr-Framework-Ecosystem/
+[ https://byxar.github.io/xAr-Framework-Ecosystem/](https://github.com/byxar/xAr-Framework-Ecosystem)
 
 ---
 
