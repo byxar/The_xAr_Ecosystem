@@ -74,6 +74,31 @@ To create movement that feels good, ask:
 
 ---
 
+## 🧩 Checklist for This Stage
+
+- [ ] Map customer journey (start to finish)
+- [ ] Identify friction points in circulation
+- [ ] Design staff movement and backstage logic
+- [ ] Define service choreography (who does what, when)
+- [ ] Create spatial zoning plan (hotspots, cold zones)
+- [ ] Plan queue and wait areas
+- [ ] Draft a space logic diagram (entry, path, exit)
+- [ ] Align operational tasks with layout flow
+- [ ] Build service script tied to spatial cues
+
+---
+
+## 👥 Who Should Be Contacted
+
+- Service Designers
+- UX Designers
+- Retail Operations Managers
+- Interior Architects
+- Hospitality Trainers
+- Spatial Behavior Analysts
+- Frontline Staff (for ground-truth insights)
+
+
 ## 🎯 Goal
 
 > **Seamless Back-End Systems**  
