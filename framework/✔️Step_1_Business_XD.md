@@ -78,8 +78,6 @@ These are the operational prompts every founder must answer:
 
 ## 💡 How to Know You’re Done
 
-Your business should be able to answer these in 5 minutes:
-
 - What’s your value?  
 - What’s your model?  
 - How does it run?  
