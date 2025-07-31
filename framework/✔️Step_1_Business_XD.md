@@ -1,6 +1,12 @@
-# 🪨 BusinessXD (Earth)  
+# 🪨 Business XD (Earth)  
 **Design Operations That Make Sense**  
 _The foundation of any brand isn’t the space. It’s the system._
+
+---
+
+## 🔁 Stage: Discovery  
+## 🎯 Goal: Works Smart  
+## 🧠 Lenses: Science + Engineering  
 
 ---
 
@@ -10,6 +16,9 @@ _The foundation of any brand isn’t the space. It’s the system._
 It defines how your business operates — not what it looks like.
 
 This is where you design **logic that survives pressure**, **systems that scale**, and **workflows that adapt**.
+
+> _“If your business fails when the trend dies, it was never a business. It was a Pinterest post.”_  
+> — Amr Radwan
 
 ---
 
@@ -26,7 +35,7 @@ It achieves **efficiency** by combining:
 
 ---
 
-### 📐 Formula:
+### 📐 Formula
 ```txt
 Efficiency = Logic (Science) + Structure (Engineering)
 ```
@@ -64,13 +73,6 @@ These are the operational prompts every founder must answer:
 | 💸 Money Check   | Clear model for cost, pricing, margin, breakeven, profit.                   |
 | 🧾 Legal Check   | Permits, licenses, jurisdictional compliance (especially in physical retail).|
 
----
-
-
-## 🎯 Goal
-
-> **Operational Clarity**  
-_So you can **perform**, **scale**, **adapt**, and **operate**._
 
 ---
 
@@ -78,11 +80,11 @@ _So you can **perform**, **scale**, **adapt**, and **operate**._
 
 Your business should be able to answer these in 5 minutes:
 
-- What’s your value?
-- What’s your model?
-- How does it run?
-- What can break it?
-- What numbers prove it?
+- What’s your value?  
+- What’s your model?  
+- How does it run?  
+- What can break it?  
+- What numbers prove it?  
 
 If not — you haven’t done Business XD.
 
