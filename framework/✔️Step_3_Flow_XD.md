@@ -93,7 +93,7 @@ To create movement that feels good, ask:
 - Service Designers
 - UX Designers
 - Retail Operations Managers
-- Interior Architects
+- Interior Designers / Architects
 - Hospitality Trainers
 - Spatial Behavior Analysts
 - Frontline Staff (for ground-truth insights)
