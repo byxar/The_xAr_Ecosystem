@@ -38,7 +38,7 @@ It evokes resonance by combining:
 
 ### 📐 Formula
 ```txt
-Resonance = Emotion (Art) + Meaning (Science)
+Impact = Emotion (Art) + Meaning (Science)
 ```
 
 ---
@@ -55,24 +55,30 @@ Resonance = Emotion (Art) + Meaning (Science)
 
 These questions shape the soul of your brand:
 
-- What do we stand for?
-- Why do we exist?
-- What do we want people to **feel** when they see us?
-- What’s our promise?
-- How do we **sound**, **look**, **smell**, **move**?
-- What emotion do we trigger — and is it consistent?
+- **WHAT** do we stand for — and how do we show it?
+- **WHAT** emotions are we trying to trigger?
+- **HOW** do we look, sound, smell, and feel?
+- **WHY** should someone trust us?
+- **WHERE** could our message break down?
 
 ---
 
 ## 🛠️ Core Deliverables
 
-| Output Type      | Description                                                               |
-|------------------|---------------------------------------------------------------------------|
-| 💬 Brand Words   | Tagline, tone, promise, values — the verbal DNA of the brand             |
-| 🎨 Visual ID      | Colors, logo, type, design language — clear visual ecosystem             |
-| 🧠 Sensory ID     | Music, scent, texture, taste — where applicable in physical environments |
-| 📖 Brand Story   | A short, emotionally sharp narrative that explains **who you are**        |
-| 🗂 Brand Guide    | A clear and beautiful document that captures all of the above            |
+| Output Type     | Description                                                                          |
+|-----------------|--------------------------------------------------------------------------------------|
+| ✍️ Brand Words  | The promise, values, beliefs, and philosophy behind the brand.                      |
+| 🎨 Brand Look   | Logo, color palette, typography, textures, materials, and expression.               |
+| 🎵 Brand Mood   | Music, scent, tactile feel, and spatial experience cues.                            |
+| 📖 Brand Story  | A short, bold narrative anyone on your team can repeat.                             |
+| 🗂 Brand Guide  | A single file that ties everything together — visual + verbal identity toolkit.     |
+
+---
+
+## 🎯 Goal
+
+> **Emotional & Cultural Relevance**  
+_To connect, differentiate, and build brand loyalty._
 
 ---
 
@@ -94,3 +100,9 @@ You know you’re done when:
 > Brand XD is **air** — invisible, but necessary for life.
 
 ---
+
+Brand XD is your air —  
+Without it, the experience suffocates.
+
+---
+
