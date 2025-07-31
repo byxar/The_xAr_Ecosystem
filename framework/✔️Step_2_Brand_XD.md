@@ -122,7 +122,6 @@ You know you’re done when:
 > A brand is not your logo.  
 > It’s how people feel about you when you’re not in the room.  
 > Brand XD is **air** — invisible, but necessary for life.
-Brand XD is your air —  
 Without it, the experience suffocates.
 
 ---
