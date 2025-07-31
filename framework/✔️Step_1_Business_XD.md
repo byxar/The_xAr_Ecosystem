@@ -76,6 +76,13 @@ These are the operational prompts every founder must answer:
 
 ---
 
+## 🎯 Goal
+
+> **Operational Clarity**  
+_So you can **perform**, **scale**, **adapt**, and **operate**._
+
+---
+
 ## 💡 How to Know You’re Done
 
 - What’s your value?  
