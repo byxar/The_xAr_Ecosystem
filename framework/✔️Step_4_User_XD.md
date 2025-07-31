@@ -70,6 +70,29 @@ User XD starts with these:
 | 🧭 Orientation Plan| Signage, visual anchors, cues for movement and decisions                |
 | ♿ Access Checks    | Disability access, ergonomic logic, comfort tests                      |
 
+---
+
+## 🧩 Checklist for This Stage
+
+- [ ] Create detailed user personas with behavior triggers
+- [ ] Simulate different user journeys (first-time vs. regular)
+- [ ] Validate focal points and sensory zones (what they see first or remember most)
+- [ ] Check if your design works for all people (easy to access and use)
+- [ ] Map emotional/sensory touchpoints (what they feel, smell, hear)
+- [ ] Plan signage, orientation, and wayfinding systems
+- [ ] Walk through the space yourself like a real user
+- [ ] Get feedback from real users and adjust based on that 
+
+---
+
+## 👥 Who Should Be Contacted
+
+- Behavioral Psychologists
+- UX Researchers
+- Accessibility Consultants
+- Inclusive Design Experts
+- Frontline Staff / Floor Managers
+- Real users (through surveys, testing, or interviews)
 
 ---
 
