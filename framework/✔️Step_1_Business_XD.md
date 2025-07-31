@@ -73,6 +73,32 @@ These are the operational prompts every founder must answer:
 | 💸 Money Check   | Clear model for cost, pricing, margin, breakeven, profit.                   |
 | 🧾 Legal Check   | Permits, licenses, jurisdictional compliance (especially in physical retail).|
 
+---
+
+## 🧩 Checklist for This Stage
+
+- [ ] Define the business goal
+- [ ] Identify user needs and stakeholder alignment
+- [ ] Conduct cost/profit analysis
+- [ ] Draft an operational flow diagram
+- [ ] Confirm legal and location-based compliance
+- [ ] List required resources, staff, and tools
+- [ ] Clarify success KPIs for launch and operation
+- [ ] Build contingency plans for failure scenarios
+- [ ] Run breakeven calculations (per sqm if physical)
+- [ ] Secure initial permits or documentation (if required)
+
+---
+
+## 👥 Who Should Be Contacted
+
+- Founders / CEO
+- Business Strategists
+- Operations Directors
+- Legal Advisors (Retail Compliance)
+- Financial Analysts
+- Site Consultants or Location Analysts
+- Procurement / Vendor Managers
 
 ---
 
