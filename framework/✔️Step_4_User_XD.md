@@ -73,6 +73,13 @@ User XD starts with these:
 
 ---
 
+## 🎯 Goal
+
+> **Deep Human Connection**  
+_To Delight, Engage, Satisfy, and Convert._
+
+---
+
 ## 💡 How to Know You’re Done
 
 You’ll know User XD is done when:
