@@ -16,7 +16,7 @@ xAr is built through a **multi-method approach**, drawing from:
 | Methodology | Description | Applied In |
 |-------------|-------------|------------|
 | **Grounded Theory** | Emerging insights from raw retail projects without imposing external frameworks | 2017–2023 project cycles |
-| **Design Ethnography** | Observing user behavior, staff patterns, cultural signals in real spaces | Roseparis, Vinny’s, Venti, HotMess |
+| **Design Ethnography** | Observing user behavior, staff patterns, cultural signals in real spaces | +35 project, +25 brands |
 | **Practice-Based Research** | Using live projects as experimental testbeds to refine tools and pillars | All xAr Studio projects |
 | **Comparative Framework Audit** | xAr was tested against 40+ frameworks (Service Design, BMC, UXD, etc.) | Originality Audit 2025 |
 | **Phenomenological Inquiry** | Examining the spiritual and sensory experience of retail environments | Brand XD / Space Container |
