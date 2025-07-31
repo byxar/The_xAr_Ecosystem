@@ -1,0 +1,74 @@
+# 🧾 Citation Guide for xAr Framework™
+
+This document provides the official citation formats for referencing the xAr Ecosystem™, its components, and derivative materials in academic, industry, or hybrid publications.
+
+---
+
+## 📘 Primary Framework Citation
+
+> **Radwan, A.** (2025). *The xAr Ecosystem™: A Framework for Retail Experience Design*. Version 1.5. Zenodo. https://doi.org/10.5281/zenodo.xxxxxx
+
+**Use when citing the core framework as a whole.**
+
+---
+
+## 🧪 Academic Paper Citation
+
+> Radwan, A. (2025). *Retail is Broken: Structuring a Sacred System for Brand Experience*. xAr Ecosystem White Paper. https://byxar.com/docs
+
+Use for white papers, working papers, or ecosystem critiques.
+
+---
+
+## 📂 Folder/File-Level Citation
+
+Each Markdown file or PDF may be cited as follows:
+
+```bibtex
+@misc{radwan2025businessxd,
+  title     = {Business XD: Design Operations That Make Sense},
+  author    = {Radwan, Amr},
+  year      = {2025},
+  url       = {https://github.com/byxar/xAr-Framework-Ecosystem/blob/main/framework/Step_1_Business_XD.md},
+  note      = {Version 1.5, xAr Ecosystem™}
+}
+```
+
+Update the `title` and `url` fields according to the file.
+
+---
+
+## 🛠 Toolkit Citation
+
+> Radwan, A. (2025). *Retail Strategy Canvas*, xAr Ecosystem™ Toolkit. https://github.com/byxar/xAr-Framework-Ecosystem/tree/main/toolkit
+
+---
+
+## 🌍 Multilingual Citations
+
+When citing translated files:
+
+> Radwan, A. (2025). *The xAr Ecosystem™ (Arabic Edition)*. Translation by xAr Collective. https://github.com/byxar/xAr-Framework-Ecosystem/tree/main/translations
+
+---
+
+## ⚠️ Usage Notes
+
+- Always cite the **Zenodo DOI** when referencing the full framework.
+- Use GitHub links only for partial file references.
+- When referencing visual diagrams, add the file name and directory path.
+
+---
+
+## 🔁 For Journal Submission
+
+Include a full bibliography using BibTeX or APA format using these templates. xAr supports citation in:
+- APA
+- MLA
+- BibTeX
+- IEEE
+
+---
+
+## 🧵 Questions?
+For citation issues or to request official letters for academic committees, contact: **research@byxar.com**
