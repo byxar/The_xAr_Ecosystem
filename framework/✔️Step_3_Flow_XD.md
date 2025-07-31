@@ -54,23 +54,30 @@ Fluidity = Emotion (Art) + Intuition (Design)
 
 To create movement that feels good, ask:
 
-- Where does the user enter — and what do they see first?
-- How do staff navigate the space without clashing with customers?
-- Where does friction happen — and what’s the flow fix?
-- Are your customers wandering or journeying?
-- Can a new staff member understand the logic in 5 minutes?
+- **HOW** do staff move behind the scenes?
+- **HOW** do users enter, move, and exit?
+- **WHERE** do queues form, and why?
+- **WHERE** do goods go in and out?
+- **WHEN** do rushes occur, and how do we prepare?
 
 ---
 
 ## 🛠️ Core Deliverables
 
-| Output Type      | Description                                                              |
-|------------------|--------------------------------------------------------------------------|
-| 🧍‍♂️ People Path   | Map of customer navigation — entry, dwell zones, service points        |
-| 🧱 Spatial Map    | Layout of core zones (POS, seating, merchandising, etc.)                |
-| ⏳ Queue Plan     | Logic for managing customer waiting time and physical placement         |
-| 🔄 Staff Map     | Back-of-house flow — refills, restock, handoffs                          |
-| 📦 Stock Logic   | Product entry, movement, and restock logic to avoid disruption          |
+| Output Type   | Description                                                                 |
+|---------------|-----------------------------------------------------------------------------|
+| 🧭 Staff Map   | Internal routes, prep zones, kitchen, storage, delivery paths.              |
+| 🧍‍♂️ User Path  | How users walk, pause, queue, order, and exit — optimized for frictionless flow.|
+| 🧱 Space Map   | Physical layout by zones (counter, seats, tables, signage).                 |
+| 🔁 Queue Plan  | Clear logic for waiting, speed, and overflow.                              |
+| 📦 Stock Map   | Backend logistics for goods-in and goods-out.                              |
+
+---
+
+## 🎯 Goal
+
+> **Seamless Back-End Systems**  
+_To enable **speed**, **reliability**, **consistency**, and **scalability**._
 
 ---
 
