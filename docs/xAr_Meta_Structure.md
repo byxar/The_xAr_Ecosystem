@@ -92,7 +92,7 @@ It binds all pillars and reveals the truth of your system.
 ## 🧪 Validation Sources
 
 - [`Comprehensive Evaluation of the xAr Framework™`](../doc/Comprehensive_Evaluation_of_the_xAr_Framework.pdf)
-- [`xAr Originality Audit`](../doc/xAr_Originality_Audit_Report_by_Grok.md)
+- [`xAr Originality Audit`](../doc/xAr_Originality_Audit.md)
 - [`xAr Framework Case Index`](./xAr_Framework_Case_Index.md)
 - [`xAr Ecosystem Explained`](../doc/The_xAr_Ecosystem_Explained.pdf)
 
