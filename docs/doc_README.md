@@ -40,7 +40,7 @@ If you're new to xAr:
 
 All documentation is protected under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.  
 This material is part of the registered release:
-> **The xAr Ecosystem™ v1.5.0** (Zenodo DOI coming soon)
+> **The xAr Ecosystem™ v1.5.0** ([![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16285309.svg)](https://doi.org/10.5281/zenodo.16285309))
 
 ---
 
