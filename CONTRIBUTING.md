@@ -82,7 +82,7 @@ Only contribute if you align with the mission:
 
 ---
 
-Created by [Amr Radwan](https://www.instagram.com/amrradwan_),  
+Created by [Amr Radwan](https://www.instagram.com/by.xar_),  
 Founder of xAr Ecosystem™  
 “**The Godfather of Retail Design.**”
 
