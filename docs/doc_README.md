@@ -61,4 +61,4 @@ This folder will fix that.
 
 ---
 
-Maintained by [Amr Radwan](https://www.instagram.com/by.xar_)
+Maintained by [Amr Radwan](https://www.instagram.com/by.xar)
