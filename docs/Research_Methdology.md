@@ -59,7 +59,7 @@ Every version of the xAr Framework™ followed a **cycle of stress-testing**:
    - Compared to 40+ global models (see: `Framework_Comparison.md`, `xAr_Originality_Audit.md`)
      
 6. **Publication & Timestamping**  
-   - All files timestamped via [Zenodo Repository](https://zenodo.org/records/16285309)
+   - All files timestamped via [Zenodo Repository](https://zenodo.org/records/16285309) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16285309.svg)](https://doi.org/10.5281/zenodo.16285309)
 
 
 Every pillar was stress-tested in real-world contexts:
