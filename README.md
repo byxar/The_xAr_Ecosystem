@@ -51,17 +51,15 @@ Explore the ecosystem:
 - [`/docs`](./docs/) → Research papers (PDFs, Zenodo links)  
 - [`/framework`](./framework/) → 5 xAr Pillars in Markdown  
 - [`/diagrams`](./diagrams/) → Elemental maps, lifecycle diagrams, metaphors  
-- [`/toolkit`](./toolkit/) → Strategy canvases, experience flows  
-- [`/research`](./research/) → Originality audits, foresight, peer comparisons  
+- [`/toolkit`](./toolkit/) → Strategy canvases, experience flows  (Coming)
+- [`/research`](./research/) → Originality audits, foresight, peer comparisons  (Organising)
 
 
 ---
 
 ##  Live Website
 
-> This repo powers the GitHub Pages site for the xAr Framework™:
-
-[ https://byxar.github.io/xAr-Framework-Ecosystem/](https://github.com/byxar/xAr-Framework-Ecosystem)
+> This repo powers the GitHub Pages site for the xAr Framework™ (Coming)
 
 ---
 
@@ -86,6 +84,6 @@ Radwan, A. (2025). *The xAr Framework™ and Ecosystem™: A Multidisciplinary D
   title        = {The xAr Framework™ and Ecosystem™},
   year         = 2025,
   publisher    = {Zenodo},
-  url          = {https://zenodo.org/record/YOUR-ID}
+  url          = {https://zenodo.org/record/YOUR-ID} (Coming)
 }
 
