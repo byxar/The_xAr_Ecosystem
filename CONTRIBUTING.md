@@ -7,7 +7,7 @@ This is **a container of sacred work.**
 
 ---
 
-## ⚠️ BEFORE YOU CONTRIBUTE
+## BEFORE YOU CONTRIBUTE
 
 Ask yourself:
 
@@ -22,20 +22,20 @@ If not, observe quietly. Don’t waste time.
 
 ---
 
-## 💡 What We’re Looking For
+##  What We’re Looking For
 
 You’re welcome here if you want to contribute to:
 
-- 📚 **Translating the Framework** into other languages or contexts
-- 🧱 **Improving the Documentation** with clarity, logic, and real-world examples
-- ⚙️ **Developing Tools** (e.g. checklists, apps, templates) aligned with xAr’s logic
-- 🧪 **Validating the Model** via academic, business, or behavioral case studies
-- ✍️ **Correcting** grammar, flow, markdown logic — ONLY if it increases precision
-- 📊 **Mapping** additional frameworks for comparison or integration
+-  **Translating the Framework** into other languages or contexts
+-  **Improving the Documentation** with clarity, logic, and real-world examples
+-  **Developing Tools** (e.g. checklists, apps, templates) aligned with xAr’s logic
+-  **Validating the Model** via academic, business, or behavioral case studies
+-  **Correcting** grammar, flow, markdown logic — ONLY if it increases precision
+-  **Mapping** additional frameworks for comparison or integration
 
 ---
 
-## 🚫 What We Don’t Want
+##  What We Don’t Want
 
 - No aesthetic “opinions” without logic
 - No superficial edits just to get a commit in
@@ -44,7 +44,7 @@ You’re welcome here if you want to contribute to:
 
 ---
 
-## 🛠 TECHNICAL GUIDELINES
+##  TECHNICAL GUIDELINES
 
 - Markdown only (`.md` files)
 - Use `snake_case` for filenames: `step_1_business_xd.md`
@@ -63,7 +63,7 @@ You’re welcome here if you want to contribute to:
 
 ---
 
-## 🧭 Core Repos You Can Start From
+##  Core Repos You Can Start From
 
 - `docs/` – Full framework breakdowns
 - `examples/` – Real use cases
